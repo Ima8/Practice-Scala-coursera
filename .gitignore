@@ -1,9 +1,5 @@
 *.class
 *.log
-<<<<<<< HEAD
-=======
-
->>>>>>> 54f1b72e25ddcff97ad4f185efbe35d0b31c3ad6
 # sbt specific
 .cache
 .history
@@ -17,8 +13,4 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
-<<<<<<< HEAD
-.worksheet
-=======
-.worksheet
->>>>>>> 54f1b72e25ddcff97ad4f185efbe35d0b31c3ad6
+
